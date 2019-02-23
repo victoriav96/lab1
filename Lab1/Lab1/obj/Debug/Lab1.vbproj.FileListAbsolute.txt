@@ -1,0 +1,12 @@
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\Lab1\Lab1\bin\Debug\Lab1.xml
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\Lab1\Lab1\obj\Debug\Lab1.vbprojAssemblyReference.cache
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\Lab1\Lab1\obj\Debug\Lab1.FrmAverageShipped.resources
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\Lab1\Lab1\obj\Debug\Lab1.Resources.resources
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\Lab1\Lab1\obj\Debug\Lab1.vbproj.GenerateResource.cache
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\Lab1\Lab1\obj\Debug\Lab1.vbproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\Lab1\Lab1\obj\Debug\Lab1.xml
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\Lab1\Lab1\obj\Debug\Lab1.pdb
